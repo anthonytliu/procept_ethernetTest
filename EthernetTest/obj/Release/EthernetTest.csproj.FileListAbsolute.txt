@@ -1,0 +1,10 @@
+C:\Users\a.liu\source\repos\EthernetTest\EthernetTest\bin\Release\EthernetTest.exe.config
+C:\Users\a.liu\source\repos\EthernetTest\EthernetTest\bin\Release\EthernetTest.exe
+C:\Users\a.liu\source\repos\EthernetTest\EthernetTest\bin\Release\EthernetTest.pdb
+C:\Users\a.liu\source\repos\EthernetTest\EthernetTest\obj\Release\EthernetTest.csprojAssemblyReference.cache
+C:\Users\a.liu\source\repos\EthernetTest\EthernetTest\obj\Release\EthernetTest.Form1.resources
+C:\Users\a.liu\source\repos\EthernetTest\EthernetTest\obj\Release\EthernetTest.Properties.Resources.resources
+C:\Users\a.liu\source\repos\EthernetTest\EthernetTest\obj\Release\EthernetTest.csproj.GenerateResource.cache
+C:\Users\a.liu\source\repos\EthernetTest\EthernetTest\obj\Release\EthernetTest.csproj.CoreCompileInputs.cache
+C:\Users\a.liu\source\repos\EthernetTest\EthernetTest\obj\Release\EthernetTest.exe
+C:\Users\a.liu\source\repos\EthernetTest\EthernetTest\obj\Release\EthernetTest.pdb

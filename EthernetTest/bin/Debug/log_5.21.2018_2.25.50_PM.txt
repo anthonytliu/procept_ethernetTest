@@ -1,0 +1,16 @@
+
+
+
+Port 1: Address: 192.168.1.200
+RoundTrip time: 0
+Time to live: 128
+Don't fragment: False
+Buffer size: 32
+
+
+
+Port 1: Please enter IP in IPv4 format.
+
+
+Port 2: An invalid IP was entered. Please check and try again.
+
